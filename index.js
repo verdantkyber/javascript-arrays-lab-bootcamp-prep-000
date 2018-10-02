@@ -28,3 +28,4 @@ function prependKitten(cat){
   return cats;
 }
 
+function removeLastKitten(cat)
